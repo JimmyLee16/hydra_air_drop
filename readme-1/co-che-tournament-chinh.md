@@ -14,8 +14,8 @@
 
 * **Format:** Single-elimination bracket
 * **Entry Fee:**
-  * 10 ADA or 100 RPS tokens
-  * Free entry for stakers (500 RPS = 1 ticket)
+  * 10 ADA or ???
+  * Free entry for stakeholders (500 RPS = 1 ticket)
 
 ### Prize Distribution
 
@@ -31,16 +31,11 @@
 
 ### Game Rules
 
-
-
 * Best of 3 matches
 * 15-second move timer
-* Chainlink VRF for randomness
 * Anti-bot detection system
 
 ### Special Features
-
-
 
 * Double-elimination for monthly finals
 * Comeback multiplier (extra prizes for winning after 3 losses)
