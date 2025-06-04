@@ -1,5 +1,5 @@
 # 1. Cơ chế Tournament chính
-```markdown
+
 # Rock Paper Scissor Tournament - Core Mechanism
 
 ## Basic Structure
@@ -26,4 +26,4 @@
 ## Special Features
 - Double-elimination for monthly finals
 - Comeback multiplier (extra prizes for winning after 3 losses)
-```
+
