@@ -26,5 +26,4 @@
 ## Special Features
 - Double-elimination for monthly finals
 - Comeback multiplier (extra prizes for winning after 3 losses)
-
 ```
