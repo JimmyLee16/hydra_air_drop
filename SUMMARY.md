@@ -6,6 +6,7 @@
     * [CƠ CHẾ TOURNAMENT CHÍNH](airdrop-campaig/readme-1/co-che-tournament-chinh/README.md)
       * [Giải pháp 2 - Tournament](airdrop-campaig/readme-1/co-che-tournament-chinh/giai-phap-2-tournament.md)
       * [Giải pháp 1 - Ranking](airdrop-campaig/readme-1/co-che-tournament-chinh/giai-phap-1-ranking.md)
+      * [Giải pháp 3 - Ranking](airdrop-campaig/readme-1/co-che-tournament-chinh/giai-phap-3-ranking.md)
     * [PRIZE POOL](airdrop-campaig/readme-1/prize-pool.md)
     * [🏦 CƠ CHẾ DONATE LIÊN KẾT VỚI STAKING POOL (EPOCH-BASED)](airdrop-campaig/readme-1/co-che-donate-lien-ket-voi-staking-pool-epoch-based.md)
     * [🎯 CHƯƠNG TRÌNH GIỚI THIỆU (REFERRAL PROGRAM)](airdrop-campaig/readme-1/chuong-trinh-gioi-thieu-referral-program.md)
