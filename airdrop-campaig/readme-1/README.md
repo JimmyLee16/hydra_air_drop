@@ -1,4 +1,8 @@
-# 1st testnet campaig
+# ✊ ROCK - Rock the chain. Shake the Hydra
+
+```
+                                “Rock the chain. Shake the Hydra."
+```
 
 ### Tổng quan:
 
