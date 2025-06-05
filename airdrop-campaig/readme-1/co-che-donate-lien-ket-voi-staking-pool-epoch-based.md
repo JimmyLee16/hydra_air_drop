@@ -76,7 +76,7 @@ Stake 50,000 ADA (Tier Vàng) qua 20 epoch:
 
 #### 🔄 Flow Sequence:
 
-<figure><img src="../.gitbook/assets/deepseek_mermaid_20250604_0bf795.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/deepseek_mermaid_20250604_0bf795.png" alt=""><figcaption></figcaption></figure>
 
 ***
 
