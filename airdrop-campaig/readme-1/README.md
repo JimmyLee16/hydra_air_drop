@@ -37,7 +37,7 @@ Chúng tôi mở cửa **testnet độc quyền** dành cho cộng đồng sớm
 ### Team triển khai:
 
 * Vtech ( kỹ thuật)
-* VCC (Marketing)
+* Alfred-Miverse (Marketing)
 * VCC (operate)
 * Tempo (DAO vote)
 
